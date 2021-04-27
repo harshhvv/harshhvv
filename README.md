@@ -1,4 +1,9 @@
 ### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harshhvv&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhvv&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me: [@harshhvv](https://www.instagram.com/harshhvv/)  on instagram
+- 🌱 I’m currently learning swift and iOS app dev
+- ⚡ Fun fact: I can fall asleep almost anywhere within 2 minutes
 
 <!--
 **harshhvv/harshhvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
