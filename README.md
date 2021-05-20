@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: [@harshhvv](https://www.instagram.com/harshhvv/)  on instagram
-- 🌱 I’m currently learning swift and iOS app dev
+- 🌱 I’m currently learning linux, c++, swift and iOS app dev
 - ⚡ Fun fact: I can fall asleep almost anywhere within 2 minutes
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harshhvv&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)   
