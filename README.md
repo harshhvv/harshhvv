@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I can fall asleep almost anywhere within 2 minutes
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harshhvv&show_icons=true&theme=omni&count_private=true))](https://github.com/anuraghazra/github-readme-stats)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhvv&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhvv&show_icons=true&theme=omni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **harshhvv/harshhvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
