@@ -4,7 +4,7 @@
 - 🔭 Cybersecurity enthusiast
 - ⚡ Fun fact: I can fall asleep almost anywhere within 2 minutes
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harshhvv&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)   
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harshhvv&show_icons=true&theme=omni&count_private=true))](https://github.com/anuraghazra/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhvv&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
