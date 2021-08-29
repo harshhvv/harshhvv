@@ -9,7 +9,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhvv&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priyanshmehta22&theme=omni)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshhvv&theme=omni)
 
 <!--
 **harshhvv/harshhvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
