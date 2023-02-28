@@ -11,5 +11,5 @@
   <br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshhvv&theme=omni)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=harshhvv&color=green)
  
