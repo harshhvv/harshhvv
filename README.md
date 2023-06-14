@@ -1,9 +1,8 @@
 ### Hi there 👋
 - 📫 How to reach me: [@harshhvv](https://www.instagram.com/harshhvv/)  on instagram, [Harsh V.](https://www.linkedin.com/in/harshhvv/)  on LinkedIn
-- 🌱 I’m currently learning Pentesting, Web3 development with python and solidity
-- Skillset: Java, C/C++, JavaScript, Python, Solidity, Blockchain, Web3, Pentesting
+- 🌱 I’m currently learning Pentesting, Web3 development with python and solidity, PWA development using Ionic framework
+- Skillset: Java, C/C++, JavaScript, Python, Solidity, Blockchain, Web3, Pentesting, Ionic developer, ReactJS, TypeScript
 - 🔭 Cybersecurity enthusiast
-- ⚡ Fun fact: I can fall asleep almost anywhere within 2 minutes
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshhvv&show_icons=true&count_private=true&theme=omni) 
 <br>
